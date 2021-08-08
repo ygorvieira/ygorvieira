@@ -3,7 +3,7 @@
 
 - 🤔 &nbsp; Entusiasta de tecnologia e praticante de Kung Fu Garra de Águia.
 - 🎓 &nbsp; Bacharel em **Sistemas de Informação**.
-- 💼 &nbsp; Trabalhao como **Desenvolvedor BackEnd** na <a href="https://www.linkedin.com/company/medgrupo/mycompany/">MEDGRUPO</a>
+- 💼 &nbsp; Trabalho como **Desenvolvedor BackEnd** na <a href="https://www.linkedin.com/company/medgrupo/mycompany/">MEDGRUPO</a>
 - 🌱 &nbsp; Aprendendo mais sobre **C# | .NET | Entity Framework | JavaScripit | SQL**.
 
 <h3> :rocket: &nbsp;Principais Habilidades</h3>
